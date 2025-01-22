@@ -1,0 +1,7 @@
+*ADDING FUNCTION
+a = {1, 2, 3, 4}
+a.add(2) 
+a.add(8) 
+print(a)
+O/P
+{1, 2, 3, 4, 8}
