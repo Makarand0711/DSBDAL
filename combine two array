@@ -1,0 +1,7 @@
+import numpy as np
+a = np.array([300, 400])
+b = np.array([500, 600])
+c = np.concatenate((a,b))
+print("Combined sales data:", c)
+o/p
+  Combined sales data: [300 400 500 600]
