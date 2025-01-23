@@ -1,0 +1,10 @@
+import numpy as np
+a = np.array([10, 20, 30])
+b = np.array([1, 2, 3])
+c = a + b
+d  = a * b
+print("Addition:", c)
+print("Multiplication:", d)
+o/p
+Addition: [11 22 33]
+Multiplication: [10 40 90]
